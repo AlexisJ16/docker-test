@@ -15,4 +15,6 @@ Este repositorio demuestra:
 
 ## Prueba local
 ```bash
-
+docker pull <TU_USUARIO>/docker-test:latest
+docker run -p 8080:80 <TU_USUARIO>/docker-test:latest
+# abrir http://localhost:8080
