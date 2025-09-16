@@ -1,5 +1,7 @@
 # Docker Build & GitHub Actions CI/CD:
 
+Alexis Jaramillo
+
 Este repositorio demuestra:
 
 - **Dockerfile** multi-stage: build con Node.js y deploy con NGINX.
